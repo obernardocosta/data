@@ -1,21 +1,20 @@
-# dados-big-data
+# data
 
-Cópia **raw** (sem alterações) dos datasets usados nas disciplinas **GDBD** e
-**PDN** do material [obernardocosta/big-data](https://github.com/obernardocosta/big-data).
+Raw (unmodified) copies of the datasets used in the **GDBD** and **PDN** Big Data
+courses from [obernardocosta/big-data](https://github.com/obernardocosta/big-data).
 
-**Por que existe:** os labs não dependem mais de um repositório de terceiros que
-pode mudar, sair do ar ou ser reorganizado. Os labs sempre apontam para este
-repositório.
+**Why this exists:** labs never depend on a third-party repository that may
+change, move or disappear. Labs always point to this repository.
 
 ## Datasets
 
-| Dataset | Caminho | Origem | Licença |
+| Dataset | Path | Source | License |
 |---|---|---|---|
-| Premier League 2024/25 | [`futebol/premier-league/2024-25/en.1.json`](futebol/premier-league/2024-25/en.1.json) | [openfootball](https://github.com/openfootball/football.json) | CC0 1.0 |
+| Premier League 2024/25 | [`football/premier-league/2024-25/en.1.json`](football/premier-league/2024-25/en.1.json) | [openfootball](https://github.com/openfootball/football.json) | CC0 1.0 |
 
-## Convenções
+## Conventions
 
-- Um diretório por tema e por dataset: `tema/dataset/versão/`.
-- Cada dataset tem `README.md` com origem, licença, SHA-256 e data da cópia.
-- Arquivos raw nunca são editados. Versão nova = nova pasta (ex.: `2025-26/`).
-- URL raw: `https://raw.githubusercontent.com/obernardocosta/dados-big-data/main/<caminho>`
+- One directory per topic and dataset: `topic/dataset/version/`.
+- Every dataset has a `README.md` with source, license, SHA-256 and copy date.
+- Raw files are never edited. A new version goes in a new folder (e.g. `2025-26/`).
+- Raw URL: `https://raw.githubusercontent.com/obernardocosta/data/main/<path>`
