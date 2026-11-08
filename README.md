@@ -10,7 +10,8 @@ change, move or disappear. Labs always point to this repository.
 
 | Dataset | Path | Source | License |
 |---|---|---|---|
-| Premier League 2024/25 | [`football/premier-league/2024-25/en.1.json`](football/premier-league/2024-25/en.1.json) | [openfootball](https://github.com/openfootball/football.json) | CC0 1.0 |
+| Football: Premier League 2024/25 (main lab dataset) | [`football/premier-league/2024-25/en.1.json`](football/premier-league/2024-25/en.1.json) | [openfootball](https://github.com/openfootball/football.json) | CC0 1.0 |
+| Football: other seasons and leagues | [`football/`](football/README.md) | [openfootball](https://github.com/openfootball/football.json) | CC0 1.0 |
 
 ## Conventions
 
